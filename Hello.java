@@ -4,5 +4,9 @@ public class Hello{
     }
     public void mainBranchMethod(){
         System.out.println("This is a method from main branch");
+        System.out.println("Hello from the mergeBranch");
+    }
+        public void mergeBranchMethod(){
+        System.out.println("Hello from the mergeBranch");
     } 
 }
